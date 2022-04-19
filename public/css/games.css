@@ -7,9 +7,11 @@ body {
     font-size: 72px;
     color: #724C21;
     cursor: pointer;
+    background-color: transparent;
+    border: transparent;
 }
 .navbar-brand {
-    margin-right: 61%;
+    margin-right: 58%;
 }
 .game-name {
     color: #F9B23D;

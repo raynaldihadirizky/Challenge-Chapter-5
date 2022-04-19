@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "username": "Raystronaut",
+        "password": "qwerty"
+    },
+    {
+        "id": 2,
+        "useername": "BaronGaulzz",
+        "password": "123456"
+    },
+    {
+        "id": 3,
+        "username": "NaxxIndie",
+        "password": "abcdef"
+    },
+    {
+        "id": 4,
+        "username": "snoopy",
+        "password": "ytrewq"
+    }
+]

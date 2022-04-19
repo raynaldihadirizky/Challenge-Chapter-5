@@ -121,6 +121,24 @@ header {
     cursor: pointer;
 }
 
+.card {
+    position: relative;
+    top: 2vw;
+    left: 33%;
+    width: 500px;
+    height: 230px;
+}
+
+.card > form {
+    width: 90%
+}
+
+form > a > button.back {
+    display: inline-block;
+    border: 1px solid gray;
+    width: 65px;
+}
+
 /* PAGE 2 */
 .bannerSecond {
     width: 100%;
@@ -479,7 +497,7 @@ header {
     /* or 122% */
     color: #FFFFFF;
 }
-.bannerFifth > .top-score > .tombol {
+.bannerFifth > .top-score > tombol {
     padding-top: 50px;
     padding-left: 130px;
 }
@@ -668,7 +686,7 @@ header {
     line-height: 25px;
     color: #FFB548;
 }
-.bannerSixth > .newsContainer > .tombol {
+.bannerSixth > .newsContainer > button {
     margin-top: -59px;
-    padding-left: 380px;
+    padding-left: 300px;
 }
